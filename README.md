@@ -3,13 +3,21 @@
 #### ※Term Definition
 <img src="https://user-images.githubusercontent.com/76424262/217400021-5f6663a1-ff0c-4289-b4c0-f816c9c14443.PNG">
 
-### Object
+## 1. Object
 <img src="https://user-images.githubusercontent.com/76424262/217398017-fc055399-c85b-4bcf-a0f5-a56638857a81.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217398125-689290af-bcf8-4cfd-be9c-f26e90868387.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217399947-e08fb682-526b-4ebe-b947-2d6eb24b1987.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217400096-ba61e72b-2110-4441-bce6-b191ba316ae6.PNG">
 
-### Modeling Process
+## 2. Modeling Process
+<img src="https://user-images.githubusercontent.com/76424262/217400141-06e3a259-c1a0-4f14-b1e8-0957b72f6606.PNG">
 
+## 3. Summary
+<img src="https://user-images.githubusercontent.com/76424262/217400200-3da58d4d-40f4-499f-9291-71b852b40fee.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217400253-61611783-5531-4b87-8564-7cfa8a8db225.PNG">
 
+<img src="https://user-images.githubusercontent.com/76424262/217400339-5c881b64-33f4-43b1-8092-7ea6d635f918.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217400491-26c2c743-cf94-4d5e-a2cd-b7413ca08173.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217400557-34c6bda7-a2b7-4aaf-8f3e-1552a5cb6e55.PNG">
 
+## 4. Conclusion
