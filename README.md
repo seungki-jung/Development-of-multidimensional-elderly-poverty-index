@@ -1,5 +1,7 @@
-# 서울시 노인빈곤격차지수 개발을 통한 사회적 돌봄가치 실현
+# 노인빈곤격차지수 개발을 통한 사회적 돌봄가치 실현
 #### 사용한 분석 도구 : Python, QGIS
+#### 참여자 : 채정연, 이지호, 이한빈, 정승기, 채보미, 함승완
+
 #### ※Term Definition
 <img src="https://user-images.githubusercontent.com/76424262/217400021-5f6663a1-ff0c-4289-b4c0-f816c9c14443.PNG">
 
@@ -28,4 +30,5 @@
 <img src="https://user-images.githubusercontent.com/76424262/217400557-34c6bda7-a2b7-4aaf-8f3e-1552a5cb6e55.PNG">
 
 ## 4. Conclusion
-
+<img src="https://user-images.githubusercontent.com/76424262/217403475-d2135e90-a83d-4c8c-a28b-a15ea1a40c23.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/217403545-926b46df-79b9-41ee-be17-60c02938c664.PNG">
