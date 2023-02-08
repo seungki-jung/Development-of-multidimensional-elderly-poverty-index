@@ -13,8 +13,14 @@
 <img src="https://user-images.githubusercontent.com/76424262/217400141-06e3a259-c1a0-4f14-b1e8-0957b72f6606.PNG">
 
 ## 3. Summary
+
+### Index Definition
 <img src="https://user-images.githubusercontent.com/76424262/217400200-3da58d4d-40f4-499f-9291-71b852b40fee.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217400253-61611783-5531-4b87-8564-7cfa8a8db225.PNG">
+
+- '노인빈곤'과 밀접한 키워드, 논문 조사를 통해 노인빈곤격차를 5개의 지표('복지', '일자리', '소득', '만족도', '인구학적 특성')로 정의
+- 각 요인 데이터의 특성에 따라 각각 상관분석, 회귀분석, 군집분석을 수행하여 가중치 산정. 상관분석 지수의 경우 편차 감소를 위해 표준화
+- 최종 지수 산출식 = 연금 + 인구학적 특성 + 복지 - 만족도 - 일자리
 
 <img src="https://user-images.githubusercontent.com/76424262/217400339-5c881b64-33f4-43b1-8092-7ea6d635f918.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217400491-26c2c743-cf94-4d5e-a2cd-b7413ca08173.PNG">
