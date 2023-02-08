@@ -1,6 +1,7 @@
 # 노인빈곤격차지수 개발을 통한 사회적 돌봄가치 실현
+
+#### 참여자 : 채정연, 이지호, 이한빈, 정승기, 최보미, 함승완
 #### 사용한 분석 도구 : Python, QGIS
-#### 참여자 : 채정연, 이지호, 이한빈, 정승기, 채보미, 함승완
 
 #### ※Term Definition
 <img src="https://user-images.githubusercontent.com/76424262/217400021-5f6663a1-ff0c-4289-b4c0-f816c9c14443.PNG">
