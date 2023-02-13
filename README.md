@@ -27,6 +27,19 @@
 - 각 요인 데이터의 특성에 따라 각각 상관분석, 회귀분석, 군집분석을 수행하여 가중치 산정. 상관분석 지수의 경우 편차 감소를 위해 표준화
 - 최종 지수 산출식 = 연금 + 인구학적 특성 + 복지 - 만족도 - 일자리
 
+#### (1) 일자리, 연금, 인구학적 특성
+<img src="https://user-images.githubusercontent.com/76424262/218348123-215f20c3-71d5-439d-9bc9-cd1907e8c56f.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/218348165-37c76be4-58b2-4a70-8213-19bc3869a96b.PNG">
+
+#### (2) 만족도
+<img src="https://user-images.githubusercontent.com/76424262/218348192-8afe0fa8-5455-422f-9166-65cd097fb7d7.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/218348238-3fecf8fc-dc0c-45d6-99b5-e22fb156b58a.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/218348283-97bb2799-e9ea-4002-aebd-1ecffba75292.PNG">
+<img src="https://user-images.githubusercontent.com/76424262/218348322-19a6867e-6516-46fc-9644-2802115410c8.PNG">
+
+#### (3) 복지
+<img src="https://user-images.githubusercontent.com/76424262/218348373-dd79b6b8-1d34-4cb2-9d3b-bff0483ac21e.PNG">
+
 ### Modeling Results
 <img src="https://user-images.githubusercontent.com/76424262/217400339-5c881b64-33f4-43b1-8092-7ea6d635f918.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/217400491-26c2c743-cf94-4d5e-a2cd-b7413ca08173.PNG">
