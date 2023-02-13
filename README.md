@@ -37,8 +37,16 @@
 <img src="https://user-images.githubusercontent.com/76424262/218348283-97bb2799-e9ea-4002-aebd-1ecffba75292.PNG">
 <img src="https://user-images.githubusercontent.com/76424262/218348322-19a6867e-6516-46fc-9644-2802115410c8.PNG">
 
+- 일부 변수 간 상관성이 높아 PCA를 통해 차원 축소 
+- 차원 축소 후 회귀분석 실시 (VIF를 통해 다중공선성 체크, 회귀분석의 4가지 가정 체크)  
+- 논문을 참고하여 회귀계수를 이용한 가중치 산정식(각 변수의 회귀계수 ÷ 회귀계수의 합)에 대입, 최종 만족도 지수를 만듦
+
 #### (3) 복지
 <img src="https://user-images.githubusercontent.com/76424262/218348373-dd79b6b8-1d34-4cb2-9d3b-bff0483ac21e.PNG">
+
+- 상관분석 결과 모든 변수에서 상관성이 무의미하였기 때문에 유사성을 보고자 하였고 군집분석 실시
+- AgglomerativeClustering, K-means Clustering 군집 2-5개를 대상으로 실루엣 계수를 본 결과 K-means Clustering 군집이 3일 때 실루엣 계수가 가장 높았으므로 k=3으로 하여 K-means 분석 실시
+- K-means Clustering 후 산점도 행렬을 통한 군집의 특성 검토
 
 ### Modeling Results
 <img src="https://user-images.githubusercontent.com/76424262/217400339-5c881b64-33f4-43b1-8092-7ea6d635f918.PNG">
